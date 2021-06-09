@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nodefeat
-- 👀 I’m interested in ... Perl + Python
+- 👀 I’m interested in ... AWS Azure Google Cloud ML AI Python
 - 🌱 I’m currently learning ... Cloud + AI + ML
 - 💞️ I’m looking to collaborate on ... Sample codes
 - 📫 How to reach me ... nodefeat.dr15@gmail.com
