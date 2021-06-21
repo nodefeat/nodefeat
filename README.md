@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @nodefeat
-- 👀 I’m interested in ... AWS Azure Google Cloud ML AI Python
-- 🌱 I’m currently learning ... Cloud + AI + ML
-- 💞️ I’m looking to collaborate on ... Sample codes
-- 📫 How to reach me ... nodefeat.dr15@gmail.com
+- 👋 Hi, I’m @nodefeat.dr15
 
 <!---
 nodefeat/nodefeat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
